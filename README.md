@@ -1,2 +1,2 @@
 # CmakeBuilder
-The project can auto build cmake file for your solution.
+The project can auto create cmake file for your solution.
